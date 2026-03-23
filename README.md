@@ -13,3 +13,5 @@
 **Important**: my computational resourses allowed me to use only about 1000 dataset samples for both fine-tuned models. Moreover,
 when I tuned the model on 2 datasets, I had to reduce the amount of samples to 800. And I think that's the reason that model works a bit worse (`0.6454` CER vs `0.5741` CER on model with 1 dataset). However, I think that if fine-tuned on equal amount of samples, approach
 with 2 datasets will be better.
+
+**!!!** I ran all the experiments in the GoogleColab environment with TPU. That's why this notebook is not likely to run on GPU
