@@ -40,11 +40,11 @@ Gradient checkpointing | True |
 ## Evaluation results
 
 | Approach | CER |
-|-------|-------|
-1. Zero-shot | 1.3129 |
-2. One-shot | 1.3385 |
-3. SFT (LaTeX_OCR) | 0.5741 |
-4. SFT (LaTeX_OCR + MathWriting) | 0.6454 |
+|----------|-----|
+| 1. Zero-shot | 1.3129 |
+| 2. One-shot | 1.3385 |
+| 3. SFT (LaTeX_OCR) | 0.5741 |
+| 4. SFT (LaTeX_OCR + MathWriting) | 0.6454 |
 
 ![alt text](picture.jpg)
 
